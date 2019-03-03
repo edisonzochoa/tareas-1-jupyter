@@ -1,2 +1,2 @@
-# tareas-1-jupyter
-tarea 1 en jupyter 
+# tarea-ejercicios-1
+tarea 1 ejercicios 
